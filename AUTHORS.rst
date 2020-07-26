@@ -1,7 +1,7 @@
 Authors
 -------
 
-* Eric (New contributor)
-* Anthony 
+* Caterina Strambio De Castillia
+* Alessandro Rigano 
 
 
