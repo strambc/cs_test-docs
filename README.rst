@@ -1,5 +1,5 @@
-What is Micro-Meta App?
-=======================
+Introduction
+============
 
 **Micro-Meta App is a open source software for the collection of Microscopy Metadata.**
 
